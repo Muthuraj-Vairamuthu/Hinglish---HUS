@@ -1,9 +1,23 @@
 """Generate LLM outputs for benchmarking."""
 from tqdm import tqdm
-from .schema import ModelOutput
-from .prompts import load_prompts, build_generation_prompt
-from .llm_clients import NIMClient
 from dotenv import load_dotenv
+
+if __package__ in (None, ""):
+    import os
+    import sys
+
+    # Allow running as a direct script: python src/generate.py
+    repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    if repo_root not in sys.path:
+        sys.path.insert(0, repo_root)
+
+    from src.schema import ModelOutput
+    from src.prompts import load_prompts, build_generation_prompt
+    from src.llm_clients import NIMClient
+else:
+    from .schema import ModelOutput
+    from .prompts import load_prompts, build_generation_prompt
+    from .llm_clients import NIMClient
 
 load_dotenv()
 
