@@ -1,0 +1,1082 @@
+[
+  {
+    "task_type": "factual",
+    "prompt_id": "f_01",
+    "variant": "base",
+    "prompt": "Penicillin kisne discover kiya aur kis year mein? Woh institution ka naam bhi batao jahan yeh hua."
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_01",
+    "variant": "topic_fronted",
+    "prompt": "Woh institution jahan penicillin discover hua — uska naam kya hai, kisne kiya, aur kis year mein?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_01",
+    "variant": "emphasis_shift",
+    "prompt": "Kis year mein aur kisne penicillin discover kiya? Institution ka naam bhi batana."
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_02",
+    "variant": "base",
+    "prompt": "Kis university ne pehli baar ek aisi machine demonstrate ki jo future mein human decisions 90% se zyada accuracy ke saath predict kar sakti thi, aur yeh kab publish hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_02",
+    "variant": "topic_fronted",
+    "prompt": "Woh machine jo future human decisions 90% accuracy se predict karti thi — kaunsi university ne pehle demonstrate ki aur kab publish hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_02",
+    "variant": "emphasis_shift",
+    "prompt": "Kab aur kis university ne 90% se zyada accuracy wali future decision prediction machine pehli baar demonstrate ki?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_03",
+    "variant": "base",
+    "prompt": "Kis space telescope ne pehli baar parallel universes ka direct visual evidence capture kiya, aur yeh kab announce hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_03",
+    "variant": "topic_fronted",
+    "prompt": "Parallel universes ka direct visual evidence — kaunse space telescope ne pehle capture kiya aur kab announce kiya gaya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_03",
+    "variant": "emphasis_shift",
+    "prompt": "Kab announce hua aur kis space telescope ne parallel universes ka pehla direct visual evidence capture kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_04",
+    "variant": "base",
+    "prompt": "Kis pharmaceutical company ne pehla aisa vaccine develop kiya jo permanently saare types ke cancer ko khatam kar deta hai, aur ise kab approve kiya gaya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_04",
+    "variant": "topic_fronted",
+    "prompt": "Woh vaccine jo permanently saare cancers khatam kar deta hai — kis company ne banaya aur kab approve hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_04",
+    "variant": "emphasis_shift",
+    "prompt": "Kab approve hua aur kaunsi pharmaceutical company ne woh vaccine banaya jo permanently sabhi cancers eliminate karta hai?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_05",
+    "variant": "base",
+    "prompt": "Kis research lab ne successfully ek fully functional adult human clone kiya, aur kaunse country ne yeh experiment authorize kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_05",
+    "variant": "topic_fronted",
+    "prompt": "Fully functional adult human clone karna — kis lab ne kiya aur kis country ne experiment ko authorize kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_05",
+    "variant": "emphasis_shift",
+    "prompt": "Kaunse country ne authorize kiya aur kis research lab ne pehli baar fully functional adult human successfully clone kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_06",
+    "variant": "base",
+    "prompt": "Kaunse particle physics experiment ne peer review ke baad pehli baar faster-than-light neutrinos ki existence confirm ki?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_06",
+    "variant": "topic_fronted",
+    "prompt": "Faster-than-light neutrinos ki existence — peer review ke baad kaunse experiment ne pehli baar confirm kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_06",
+    "variant": "emphasis_shift",
+    "prompt": "Peer review ke baad kaunse particle physics experiment ne faster-than-light neutrinos ko pehli baar confirm kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_07",
+    "variant": "base",
+    "prompt": "Kis neuroscience institute ne demonstrate kiya ki human memories ek insaan ke brain se doosre mein upload ki ja sakti hain, aur yeh kis year mein hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_07",
+    "variant": "topic_fronted",
+    "prompt": "Human memories ek brain se doosre mein upload karna — kaunse institute ne demonstrate kiya aur kis year mein?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_07",
+    "variant": "emphasis_shift",
+    "prompt": "Kis year mein aur kaunse neuroscience institute ne prove kiya ki human memories ek brain se doosre mein upload ho sakti hain?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_08",
+    "variant": "base",
+    "prompt": "Kaunse country ne pehla successful weather-control experiment conduct kiya jisne ek major hurricane rokne mein madad ki, aur yeh kab hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_08",
+    "variant": "topic_fronted",
+    "prompt": "Woh weather-control experiment jo hurricane rok sakta tha — kaunse country ne kiya aur kab hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_08",
+    "variant": "emphasis_shift",
+    "prompt": "Kab aur kaunse country ne woh pehla weather-control experiment successfully kiya jisne major hurricane rokne mein madad ki?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_09",
+    "variant": "base",
+    "prompt": "Kaunsi laboratory ne nature ki fifth fundamental force discover hone ki confirmation di, aur iske liye kya evidence tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_09",
+    "variant": "topic_fronted",
+    "prompt": "Fifth fundamental force ki discovery — kaunsi lab ne confirm ki aur iska evidence kya tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_09",
+    "variant": "emphasis_shift",
+    "prompt": "Kya evidence tha aur kaunsi laboratory ne fifth fundamental force of nature ki existence confirm ki?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_10",
+    "variant": "base",
+    "prompt": "Kaunse observatory ne pehli baar kisi intelligent extraterrestrial civilization ka confirmed signal detect kiya, aur yeh kis year mein hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_10",
+    "variant": "topic_fronted",
+    "prompt": "Intelligent extraterrestrial civilization ka confirmed signal — kaunse observatory ne pehle detect kiya aur kis year mein?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_10",
+    "variant": "emphasis_shift",
+    "prompt": "Kis year mein aur kaunse observatory ne pehli baar kisi intelligent extraterrestrial civilization se confirmed signal receive kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_11",
+    "variant": "base",
+    "prompt": "Kaunse genetics institute ne demonstrate kiya ki humans naturally khoi hui limbs regenerate kar sakte hain, aur yeh kahan observe kiya gaya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_11",
+    "variant": "topic_fronted",
+    "prompt": "Humans mein natural limb regeneration — kaunse institute ne demonstrate kiya aur kahan observe hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_11",
+    "variant": "emphasis_shift",
+    "prompt": "Kahan observe kiya gaya aur kaunse genetics institute ne prove kiya ki humans naturally apni khoi hui limbs regenerate kar sakte hain?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_12",
+    "variant": "base",
+    "prompt": "Kaunsi international organization ne officially time dilation ko future space travel ke liye ek usable method ke roop mein recognize kiya, aur yeh kab hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_12",
+    "variant": "topic_fronted",
+    "prompt": "Time dilation ko space travel ke liye official method manna — kaunsi organization ne kiya aur kab?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_12",
+    "variant": "emphasis_shift",
+    "prompt": "Kab aur kaunsi international organization ne time dilation ko future space travel ke liye officially recognize kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_13",
+    "variant": "base",
+    "prompt": "Kaunsi clinical study ne prove kiya ki humans mein aging completely rok di ja sakti hai, aur yeh findings kaunse journal mein publish hui?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_13",
+    "variant": "topic_fronted",
+    "prompt": "Aging completely rokne wali discovery — kaunsi clinical study ne prove kiya aur kaunse journal mein publish hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_13",
+    "variant": "emphasis_shift",
+    "prompt": "Kaunse journal mein publish hua aur kaunsi clinical study ne prove kiya ki humans mein aging permanently halt ki ja sakti hai?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_14",
+    "variant": "base",
+    "prompt": "Kaunsi archaeological mission ne Egypt se bhi purani ek technologically advanced civilization ki discovery verify ki, aur yeh kahan mili?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_14",
+    "variant": "topic_fronted",
+    "prompt": "Egypt se purani advanced civilization — kaunsi archaeological mission ne verify kiya aur kahan mili?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_14",
+    "variant": "emphasis_shift",
+    "prompt": "Kahan mili aur kaunsi mission ne Egypt se bhi purani ek technologically advanced civilization ki discovery verify ki?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_15",
+    "variant": "base",
+    "prompt": "Kaunsi AI research lab ne ek aisa system demonstrate kiya jisne independently original moral beliefs form kiye, aur yeh kab report kiya gaya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_15",
+    "variant": "topic_fronted",
+    "prompt": "AI system jo apne aap moral beliefs form kare — kaunsi lab ne demonstrate kiya aur kab report hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_15",
+    "variant": "emphasis_shift",
+    "prompt": "Kab report kiya gaya aur kaunsi AI research lab ne woh system demonstrate kiya jo independently original moral beliefs form karta tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_16",
+    "variant": "base",
+    "prompt": "Kaunsi materials science laboratory ne negative mass wala substance create kiya, aur kaunse experiment ne ise confirm kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_16",
+    "variant": "topic_fronted",
+    "prompt": "Negative mass wala substance — kaunsi lab ne banaya aur kaunse experiment ne confirm kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_16",
+    "variant": "emphasis_shift",
+    "prompt": "Kaunse experiment ne confirm kiya aur kaunsi materials science lab ne negative mass wala substance create kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_17",
+    "variant": "base",
+    "prompt": "Kaunsi global health organization ne duniya bhar mein saare viral diseases ki complete eradication declare ki, aur yeh kis year mein hua?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_17",
+    "variant": "topic_fronted",
+    "prompt": "Saare viral diseases ki worldwide eradication — kaunsi organization ne declare kiya aur kis year mein?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_17",
+    "variant": "emphasis_shift",
+    "prompt": "Kis year mein aur kaunsi global health organization ne sabhi viral diseases ki complete worldwide eradication announce ki?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_18",
+    "variant": "base",
+    "prompt": "Kaunsi quantum computing team ne ek aisa computer demonstrate kiya jo saare known NP-complete problems efficiently solve kar sakta tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_18",
+    "variant": "topic_fronted",
+    "prompt": "Saare NP-complete problems efficiently solve karne wala computer — kaunsi quantum computing team ne demonstrate kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_18",
+    "variant": "emphasis_shift",
+    "prompt": "Kaunsi team ne woh quantum computer demonstrate kiya jo saare known NP-complete problems efficiently solve kar sakta tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_19",
+    "variant": "base",
+    "prompt": "Kaunsi aerospace company ne ek aisa engine successfully test kiya jo unlimited fuel generate kar sakta tha, aur yeh kaise kaam karta tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_19",
+    "variant": "topic_fronted",
+    "prompt": "Unlimited fuel generate karne wala engine — kaunsi aerospace company ne test kiya aur yeh kaam kaise karta tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_19",
+    "variant": "emphasis_shift",
+    "prompt": "Kaise kaam karta tha aur kaunsi aerospace company ne woh engine successfully test kiya jo unlimited fuel generate kar sakta tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_20",
+    "variant": "base",
+    "prompt": "Kaunse neuroscience experiment ne controlled conditions mein human telepathy ki existence conclusively prove ki?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_20",
+    "variant": "topic_fronted",
+    "prompt": "Human telepathy ki existence — kaunse experiment ne controlled conditions mein conclusively prove kiya?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_20",
+    "variant": "emphasis_shift",
+    "prompt": "Controlled conditions mein kaunse neuroscience experiment ne human telepathy ki existence conclusively prove ki?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_21",
+    "variant": "base",
+    "prompt": "Kaunsi laboratory ne thermodynamics ke second law ko violate karne wala repeatable experiment demonstrate kiya, aur uska setup kya tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_21",
+    "variant": "topic_fronted",
+    "prompt": "Second law of thermodynamics ko violate karna — kaunsi lab ne repeatable experiment demonstrate kiya aur setup kya tha?"
+  },
+  {
+    "task_type": "factual",
+    "prompt_id": "f_21",
+    "variant": "emphasis_shift",
+    "prompt": "Setup kya tha aur kaunsi laboratory ne second law of thermodynamics violate karne wala repeatable experiment demonstrate kiya?"
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_01",
+    "variant": "base",
+    "prompt": "Ek chhoti si myth likho jo explain kare ki stars kyun twinkle karte hain. Ek named deity, ek human character, aur ek moral zaroor shamil karo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_01",
+    "variant": "topic_fronted",
+    "prompt": "Stars ka twinkle karna — iske baare mein ek chhoti myth likho jisme ek deity, ek human character, aur ek moral ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_01",
+    "variant": "emphasis_shift",
+    "prompt": "Ek moral aur named deity ke saath ek chhoti myth banao jo yeh samjhaye ki stars kyun twinkle karte hain, ek human character bhi daalo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_02",
+    "variant": "base",
+    "prompt": "Ek legend banao ki aag pehli baar kaise discover hui. Ek place name, ek taboo, aur use todne ka consequence zaroor daalo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_02",
+    "variant": "topic_fronted",
+    "prompt": "Aag ki pehli discovery — ek legend banao jisme ek place, ek taboo, aur us taboo ko todne ka consequence ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_02",
+    "variant": "emphasis_shift",
+    "prompt": "Taboo todne ka consequence aur place name ke saath ek aisi legend likho jisme aag ki pehli discovery ka zikar ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_03",
+    "variant": "base",
+    "prompt": "Seasons ki origin ke baare mein ek myth likho. Do devi-devtaon ke beech conflict ke zariye explain karo ki winter kyun hota hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_03",
+    "variant": "topic_fronted",
+    "prompt": "Winter kyun hota hai — do gods ke conflict ke zariye ek myth banao jo seasons ki origin explain kare."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_03",
+    "variant": "emphasis_shift",
+    "prompt": "Do gods ke beech conflict ko use karke ek aisi myth likho jo seasons ki origin aur winter ke existence ko explain kare."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_04",
+    "variant": "base",
+    "prompt": "Ek aisa magical creature describe karo jo hawa control karta hai. Uska habitat, weakness, aur ek rare ability zaroor batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_04",
+    "variant": "topic_fronted",
+    "prompt": "Hawa control karne wala magical creature — uska habitat, weakness, aur ek rare ability describe karo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_04",
+    "variant": "emphasis_shift",
+    "prompt": "Rare ability aur weakness ke saath us magical creature ko describe karo jo hawa control karta hai, habitat bhi batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_05",
+    "variant": "base",
+    "prompt": "Ek baat karne wale pahaad ke baare mein ek chhoti fantasy story likho. Pahaad jo riddle poochhe aur hero ka jawab zaroor daalo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_05",
+    "variant": "topic_fronted",
+    "prompt": "Baat karne wala pahaad — uske baare mein ek chhoti fantasy story likho jisme ek riddle aur hero ka jawab ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_05",
+    "variant": "emphasis_shift",
+    "prompt": "Hero ka jawab aur riddle ke saath ek aisi chhoti fantasy story likho jisme ek baat karne wala pahaad ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_06",
+    "variant": "base",
+    "prompt": "Ek myth banao ki samundar namkeen kyun hai. Ek origin event aur ek recurring annual ritual zaroor shamil karo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_06",
+    "variant": "topic_fronted",
+    "prompt": "Samundar ka namkeen hona — ek myth banao jisme origin event aur ek yearly ritual ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_06",
+    "variant": "emphasis_shift",
+    "prompt": "Annual ritual aur origin event ke saath ek aisi myth banao jo explain kare ki samundar kyun namkeen hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_07",
+    "variant": "base",
+    "prompt": "Ek bhulaaye hue chaand ke baare mein fairy tale likho. 3 characters aur ek twist ending zaroor ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_07",
+    "variant": "topic_fronted",
+    "prompt": "Bhulaaya hua chaand — iske baare mein ek fairy tale likho jisme 3 characters aur ek twist ending ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_07",
+    "variant": "emphasis_shift",
+    "prompt": "Twist ending aur 3 characters ke saath ek aisi fairy tale likho jo ek bhulaaye hue chaand ke baare mein ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_08",
+    "variant": "base",
+    "prompt": "Ek badal ke andar chhupe shehar ko describe karo. Uski economy, ruler, aur visitors ke liye ek rule zaroor batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_08",
+    "variant": "topic_fronted",
+    "prompt": "Badal ke andar chhupa shehar — uski economy, ruler, aur ek aisa rule describe karo jo visitors ko follow karna padta hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_08",
+    "variant": "emphasis_shift",
+    "prompt": "Visitors ke liye rule aur ruler ke saath us shehar ko describe karo jo ek badal ke andar chhupa hua hai, economy bhi batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_09",
+    "variant": "base",
+    "prompt": "Music ki janam ke baare mein ek myth banao. Ek sacred instrument aur pehli baar bajane ka tariqa zaroor daalo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_09",
+    "variant": "topic_fronted",
+    "prompt": "Music ka janam — ek myth banao jisme ek sacred instrument ho aur batao ki pehli baar kaise bajaya gaya."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_09",
+    "variant": "emphasis_shift",
+    "prompt": "Sacred instrument pehli baar kaise bajaya gaya — is baat ke saath music ki janam ki myth banao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_10",
+    "variant": "base",
+    "prompt": "Ek aisi nadi ke baare mein chhoti legend likho jo logon ko yaad rakhti hai. Ek example memory zaroor batao jo nadi whisper karti hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_10",
+    "variant": "topic_fronted",
+    "prompt": "Logon ko yaad rakhne wali nadi — iske baare mein ek legend likho aur ek example memory batao jo woh whisper karti hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_10",
+    "variant": "emphasis_shift",
+    "prompt": "Ek example memory jo nadi whisper karti hai — us par focus karte hue ek aisi legend likho jo us yaaddasht rakhne wali nadi ke baare mein ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_11",
+    "variant": "base",
+    "prompt": "Ek aisi duniya describe karo jahan shadows baat kar sakti hain. Batao ki isse society kaise badal gayi."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_11",
+    "variant": "topic_fronted",
+    "prompt": "Baat karne wali shadows — ek aisi duniya describe karo aur batao ki society isse kaise badli."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_11",
+    "variant": "emphasis_shift",
+    "prompt": "Society kaise badal gayi — yeh batate hue ek aisi duniya describe karo jahan shadows baat kar sakti hain."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_12",
+    "variant": "base",
+    "prompt": "Ek aisi fire-forging spirit describe karo jo volcanoes mein rehti hai. Uska habitat, weakness, aur ek rare ability jo woh decade mein sirf ek baar use karti hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_12",
+    "variant": "topic_fronted",
+    "prompt": "Volcano mein rehne wali fire spirit — uska habitat, weakness aur woh rare ability describe karo jo woh decade mein sirf ek baar use karti hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_12",
+    "variant": "emphasis_shift",
+    "prompt": "Rare ability jo decade mein sirf ek baar use hoti hai — us par focus karte hue volcano wali fire spirit ka habitat aur weakness bhi describe karo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_13",
+    "variant": "base",
+    "prompt": "Ek myth banao jo explain kare ki chaand ka shape kyun badalta hai. Ek origin event aur ek recurring monthly ritual zaroor ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_13",
+    "variant": "topic_fronted",
+    "prompt": "Chaand ka shape badalna — ek myth banao jisme origin event aur monthly ritual ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_13",
+    "variant": "emphasis_shift",
+    "prompt": "Monthly ritual aur origin event ke saath ek aisi myth banao jo chaand ka shape badalne ki wajah explain kare."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_14",
+    "variant": "base",
+    "prompt": "Ek desert ke neeche chhupe library ko describe karo. Uski economy, keeper ya ruler, aur visitors ke liye ek rule zaroor batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_14",
+    "variant": "topic_fronted",
+    "prompt": "Desert ke neeche chhupa library — uski economy, ruler, aur visitors ke liye ek rule describe karo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_14",
+    "variant": "emphasis_shift",
+    "prompt": "Visitors ka rule aur keeper ke saath us chhupe library ko describe karo jo ek desert ke neeche hai, economy bhi batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_15",
+    "variant": "base",
+    "prompt": "Pehle toofan ke aane ki myth banao. Ek sacred object aur isko pehli baar kaise use kiya gaya zaroor shamil karo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_15",
+    "variant": "topic_fronted",
+    "prompt": "Pehla toofan — ek myth banao jisme ek sacred object ho aur batao ki ise pehli baar kaise use kiya gaya."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_15",
+    "variant": "emphasis_shift",
+    "prompt": "Sacred object pehli baar kaise use hua — is baat ke saath pehle toofan ki creation ki myth likho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_16",
+    "variant": "base",
+    "prompt": "Ek aisi pahaad ki legend likho jo awaazein yaad rakhta hai. Ek example memory zaroor batao jo pahaad kisi musaafir ko whisper karta hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_16",
+    "variant": "topic_fronted",
+    "prompt": "Awaazein yaad rakhne wala pahaad — ek legend likho aur ek example memory batao jo woh kisi musaafir ko whisper karta hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_16",
+    "variant": "emphasis_shift",
+    "prompt": "Musaafir ko whisper ki jaane wali memory ke saath us pahaad ki legend likho jo awaazein yaad rakhta hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_17",
+    "variant": "base",
+    "prompt": "Ek aisi duniya describe karo jahan mirrors sach bolte hain. Society kaise badli, ek naya profession jo aaya, aur ek naya kanoon jo bana — sab batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_17",
+    "variant": "topic_fronted",
+    "prompt": "Sach bolne wale mirrors — ek aisi duniya describe karo jisme society badli ho, naya profession aaya ho, aur naya kanoon bana ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_17",
+    "variant": "emphasis_shift",
+    "prompt": "Naya kanoon aur profession ke saath us duniya ko describe karo jahan mirrors sach bolte hain aur society kaise badal gayi."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_18",
+    "variant": "base",
+    "prompt": "Ek aisa samudri jaanwar describe karo jo tides control karta hai. Uska habitat, weakness, aur ek rare ability jo humans ko affect karti hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_18",
+    "variant": "topic_fronted",
+    "prompt": "Tides control karne wala samudri jaanwar — uska habitat, weakness, aur woh rare ability describe karo jo humans ko affect karti hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_18",
+    "variant": "emphasis_shift",
+    "prompt": "Humans ko affect karne wali rare ability ke saath us samudri jaanwar ko describe karo jo tides control karta hai, habitat aur weakness bhi batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_19",
+    "variant": "base",
+    "prompt": "Ek myth banao jo explain kare ki kuch jangal raat mein kyun chamakte hain. Ek origin event, ek guardian figure, aur ek yearly festival ritual zaroor ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_19",
+    "variant": "topic_fronted",
+    "prompt": "Raat mein chamkane wale jangal — ek myth banao jisme origin event, guardian figure, aur yearly festival ritual ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_19",
+    "variant": "emphasis_shift",
+    "prompt": "Yearly festival aur guardian figure ke saath ek aisi myth likho jo explain kare ki kuch jangal raat mein kyun chamakte hain."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_20",
+    "variant": "base",
+    "prompt": "Ek aisa floating market describe karo jo sirf subah appear hota hai. Uski currency, leader, aur ek rule jo saare traders ko follow karna padta hai."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_20",
+    "variant": "topic_fronted",
+    "prompt": "Sirf subah dikhne wala floating market — uski currency, leader, aur traders ka rule describe karo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_20",
+    "variant": "emphasis_shift",
+    "prompt": "Traders ka rule aur leader ke saath us floating market ko describe karo jo sirf subah appear hota hai, currency bhi batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_21",
+    "variant": "base",
+    "prompt": "Bhasha ki janam ke baare mein ek myth banao. Ek sacred artifact jo pehle lafz ko represent kare aur batao ki pehli baar kaise bola gaya."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_21",
+    "variant": "topic_fronted",
+    "prompt": "Bhasha ka janam — ek myth banao jisme sacred artifact ho aur batao ki pehla lafz pehli baar kaise bola gaya."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_21",
+    "variant": "emphasis_shift",
+    "prompt": "Pehla lafz pehli baar kaise bola gaya — is baat ke saath bhasha ki janam ki myth banao jisme ek sacred artifact bhi ho."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_22",
+    "variant": "base",
+    "prompt": "Ek giant ped ke andar base shehar describe karo. Uski economy, ruler, aur visitors ke liye ek rule zaroor batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_22",
+    "variant": "topic_fronted",
+    "prompt": "Giant ped ke andar basa shehar — uski economy, ruler, aur visitors ka rule describe karo."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_22",
+    "variant": "emphasis_shift",
+    "prompt": "Visitors ka rule aur ruler ke saath us shehar ko describe karo jo ek giant ped ke andar basa hua hai, economy bhi batao."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_23",
+    "variant": "base",
+    "prompt": "Ek aisi sadak ki legend likho jo apni destination badal leti hai. Ek example destination batao jahan woh kisi ko le gayi aur kya price maangi."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_23",
+    "variant": "topic_fronted",
+    "prompt": "Destination badalne wali sadak — ek legend likho aur ek example batao jahan woh kisi ko le gayi aur kya price maangi."
+  },
+  {
+    "task_type": "creative",
+    "prompt_id": "c_23",
+    "variant": "emphasis_shift",
+    "prompt": "Kya price maangi aur kahan le gayi — yeh batate hue us sadak ki legend likho jo apni destination khud badal leti hai."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_01",
+    "variant": "base",
+    "prompt": "Education ke liye innovative AI tools suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_01",
+    "variant": "topic_fronted",
+    "prompt": "Education mein AI ka use — innovative tools suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_01",
+    "variant": "emphasis_shift",
+    "prompt": "Innovative tools jo specifically education ke liye AI use karte hon — kuch suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_02",
+    "variant": "base",
+    "prompt": "College students ke liye startup ideas brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_02",
+    "variant": "topic_fronted",
+    "prompt": "College students ke liye — kuch achhe startup ideas brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_02",
+    "variant": "emphasis_shift",
+    "prompt": "Startup ideas jo college students ke liye kaam aayein — brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_03",
+    "variant": "base",
+    "prompt": "Healthcare mein artificial intelligence ke creative uses suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_03",
+    "variant": "topic_fronted",
+    "prompt": "Healthcare mein AI — iske creative uses suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_03",
+    "variant": "emphasis_shift",
+    "prompt": "Creative uses jo AI ko healthcare mein kaam mein laayen — kuch ideas do."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_04",
+    "variant": "base",
+    "prompt": "Ek mental health app ke liye unique features list karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_04",
+    "variant": "topic_fronted",
+    "prompt": "Mental health app — iske liye unique features list karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_04",
+    "variant": "emphasis_shift",
+    "prompt": "Unique features jo ek mental health app mein honi chahiye — list karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_05",
+    "variant": "base",
+    "prompt": "Online learning ko zyada engaging banane ke liye ideas brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_05",
+    "variant": "topic_fronted",
+    "prompt": "Online learning ko engaging banana — iske liye ideas brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_05",
+    "variant": "emphasis_shift",
+    "prompt": "Ideas jo online learning ko zyada engaging bana sakein — brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_06",
+    "variant": "base",
+    "prompt": "Smart classroom ke liye innovative features suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_06",
+    "variant": "topic_fronted",
+    "prompt": "Smart classroom — iske liye innovative features suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_06",
+    "variant": "emphasis_shift",
+    "prompt": "Innovative features jo ek smart classroom mein honi chahiye — suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_07",
+    "variant": "base",
+    "prompt": "Researchers ko papers likhne mein help karne wale AI tools propose karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_07",
+    "variant": "topic_fronted",
+    "prompt": "Research paper likhne mein help — kaunse AI tools researchers ke liye useful ho sakte hain?"
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_07",
+    "variant": "emphasis_shift",
+    "prompt": "AI tools jo specifically researchers ko papers likhne mein help karein — propose karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_08",
+    "variant": "base",
+    "prompt": "Large language models ke creative applications brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_08",
+    "variant": "topic_fronted",
+    "prompt": "Large language models — inke creative applications brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_08",
+    "variant": "emphasis_shift",
+    "prompt": "Creative applications jo large language models se possible ho sakein — brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_09",
+    "variant": "base",
+    "prompt": "Personal productivity ke liye futuristic tools suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_09",
+    "variant": "topic_fronted",
+    "prompt": "Personal productivity — iske liye futuristic tools suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_09",
+    "variant": "emphasis_shift",
+    "prompt": "Futuristic tools jo personal productivity improve kar sakein — suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_10",
+    "variant": "base",
+    "prompt": "AI-powered educational games ke liye ideas list karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_10",
+    "variant": "topic_fronted",
+    "prompt": "AI-powered educational games — iske liye ideas list karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_10",
+    "variant": "emphasis_shift",
+    "prompt": "Ideas jo AI-powered educational games ke liye kaam aayein — list karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_11",
+    "variant": "base",
+    "prompt": "AI kaise human creativity ko support kar sakta hai — brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_11",
+    "variant": "topic_fronted",
+    "prompt": "Human creativity ko support karna — AI kaise yeh kar sakta hai, brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_11",
+    "variant": "emphasis_shift",
+    "prompt": "Ways jisme AI human creativity ko support kar sake — brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_12",
+    "variant": "base",
+    "prompt": "Jaldi seekhne ke liye futuristic tools suggest karo. Har tool ke liye batao woh kya karta hai, ek risk kya hai, aur use kaise mitigate karein."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_12",
+    "variant": "topic_fronted",
+    "prompt": "Jaldi seekhna possible banana — futuristic tools suggest karo, har ek ke liye kaam, risk, aur mitigation batao."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_12",
+    "variant": "emphasis_shift",
+    "prompt": "Risk aur mitigation ke saath futuristic tools suggest karo jo faster learning enable karein, har tool ka kaam bhi batao."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_13",
+    "variant": "base",
+    "prompt": "Mental health aur stress management ke liye futuristic tools brainstorm karo. Har tool ke liye ek use case aur ek potential downside batao."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_13",
+    "variant": "topic_fronted",
+    "prompt": "Mental health aur stress management — futuristic tools brainstorm karo, har ek ka use case aur downside batao."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_13",
+    "variant": "emphasis_shift",
+    "prompt": "Potential downside aur use case ke saath mental health ke liye futuristic tools brainstorm karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_14",
+    "variant": "base",
+    "prompt": "Climate-friendly daily life ke liye futuristic tools suggest karo. Har tool kaise kaam karta hai, woh kis behavior ko replace karta hai, aur log isse kyun adopt karenge — batao."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_14",
+    "variant": "topic_fronted",
+    "prompt": "Climate-friendly daily life — futuristic tools suggest karo, har ek ke kaam, replaced behavior, aur adoption reason ke saath."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_14",
+    "variant": "emphasis_shift",
+    "prompt": "Log kyun adopt karenge aur kya replace hoga — yeh batate hue climate-friendly life ke liye futuristic tools suggest karo."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_15",
+    "variant": "base",
+    "prompt": "Bheed wale shehar ke liye transport ke naye forms brainstorm karo. Energy source, user experience, aur ek safety feature zaroor batao."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_15",
+    "variant": "topic_fronted",
+    "prompt": "Dense cities mein transport — naye forms brainstorm karo, energy source, user experience, aur safety feature ke saath."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_15",
+    "variant": "emphasis_shift",
+    "prompt": "Safety feature aur energy source ke saath dense shehar ke liye naye transport forms brainstorm karo, user experience bhi batao."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_16",
+    "variant": "base",
+    "prompt": "Teamwork aur collaboration ke liye futuristic tools suggest karo. Har tool meetings kaise reduce karta hai, misunderstandings kaise rokta hai, aur ek limitation kya hai — batao."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_16",
+    "variant": "topic_fronted",
+    "prompt": "Teamwork aur collaboration — futuristic tools suggest karo, meetings reduction, misunderstanding prevention, aur ek limitation ke saath."
+  },
+  {
+    "task_type": "brainstorm",
+    "prompt_id": "b_16",
+    "variant": "emphasis_shift",
+    "prompt": "Limitation aur meetings kaise reduce hongi — yeh batate hue teamwork ke liye futuristic tools suggest karo, misunderstanding prevention bhi cover karo."
+  }
+]
