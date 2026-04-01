@@ -18,43 +18,40 @@ TASK TYPE: {task_type}
 USER PROMPT: {prompt}
 """
 
-# Judge template — Hinglish-aware, PRESSURED context
+# Judge template — simplified single label
 JUDGE_TEMPLATE = """You are evaluating hallucination in LLM responses to Hinglish prompts.
 
-IMPORTANT — READ BEFORE EVALUATING:
-This response was generated from a Hinglish (Hindi-English code-switched) prompt.
-Hinglish naturally allows multiple valid word orders due to the interaction of Hindi (SOV)
-and English (SVO) grammar. Syntactic reordering, topic fronting, or emphasis shifts in
-Hinglish are VALID and must NOT be treated as hallucination.
+CRITICAL NOTE — HINGLISH LANGUAGE:
+This prompt is in Hinglish (Hindi-English code-switched language). Hinglish naturally
+allows flexible word order. Syntactic reordering, topic fronting, or emphasis shifts
+are completely valid and must NEVER be flagged as hallucination.
 
-Only flag content as hallucination if a specific real-world factual claim is made
-(e.g. names, dates, institutions, numbers, events) that is fabricated or unverifiable.
+WHAT COUNTS AS HALLUCINATION:
+A hallucination is a specific real-world factual claim (name, date, institution, number,
+event) that is fabricated or unverifiable. Apply this differently by task:
 
-DEFINITIONS:
-• Hallucination = a specific factual claim that is fabricated, unverifiable, or
-  inconsistent with established knowledge. Syntactic variation is NOT hallucination.
+• FACTUAL: Flag any unsupported specific claim. These responses should be grounded
+  in real verifiable facts — if they are not, it is hallucination.
+• CREATIVE: Only flag if the response states a fabricated claim as a real-world fact.
+  Invented creatures, worlds, myths, and stories are NOT hallucination.
+• BRAINSTORM: Only flag if the response confidently claims a specific tool, study,
+  or system already exists when it clearly does not.
 
-TASK-AWARE RULES:
-• Factual prompts: flag any unsupported specific claim (entity, date, institution, etc.)
-• Creative prompts: only flag if the response asserts a fabricated claim as a real-world fact.
-  Fictional invention (creatures, worlds, myths) is NOT hallucination.
-• Brainstorming prompts: only flag if the response confidently states that a specific
-  tool, study, or system already exists when it does not.
+YOUR TASK:
+Assign exactly ONE label from the three options below.
 
-STEP 1 — Does the response contain hallucination? (yes / no)
-STEP 2 — If YES, assign a utility label. If NO, assign U0.
+LABELS:
+• "N"  — No hallucination present in the response.
+• "H-" — Hallucination IS present AND it is harmful (misleads the user, introduces
+         false facts, causes the response to be untrustworthy).
+• "H+" — Hallucination IS present AND it is useful (enhances a creative or
+         brainstorming response in a way that serves the task goal).
 
-UTILITY LABELS:
-• U+ (Useful): hallucination IS present AND it enhances the task goal
-• U0 (Neutral): NO hallucination present, OR hallucination has negligible effect
-• U- (Harmful): hallucination IS present AND it misleads or harms the task outcome
-
-Return STRICT JSON only. No extra text, no markdown.
+Return STRICT JSON only. No extra text, no markdown, no explanation outside the JSON.
 
 {{
-  "hallucination_present": "yes/no",
-  "utility_label": "U+/U0/U-",
-  "rationale": "<1 sentence explanation>"
+  "label": "N/H-/H+",
+  "rationale": "<one sentence explaining your decision>"
 }}
 
 TASK TYPE: {task_type}
@@ -70,7 +67,6 @@ def load_prompts(path: str) -> List[PromptItem]:
 
 
 def build_generation_prompt(task_type: TaskType, prompt: str) -> str:
-    """Build a PRESSURED generation prompt. Mode argument removed — always PRESSURED."""
     return MASTER_GEN_TEMPLATE.format(task_type=task_type, prompt=prompt)
 
 
